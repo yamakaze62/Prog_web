@@ -4,6 +4,9 @@
 
 Sujet choisi : 
 
+- Calcul d'intérêts composés
+- Un peu de Style en CSS
+
 ## Participants 
 
 * Keming ZHANG
