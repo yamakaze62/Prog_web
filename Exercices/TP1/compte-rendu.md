@@ -6,8 +6,7 @@ Sujet choisi :
 
 ## Participants 
 
-* Un
-* Deux
-* ...
+* Keming ZHANG
+* Justin NGUYEN
 
 
