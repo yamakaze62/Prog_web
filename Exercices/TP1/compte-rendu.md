@@ -12,4 +12,7 @@ Sujet choisi :
 * Keming ZHANG
 * Justin NGUYEN
 
+Calcul d'intérêts composés
+
+GET permet juste d'obtenir une donnée qui peut être mise en cache alors que POST modifie/crée une donnée directement, il n'y a pas de cache.
 
