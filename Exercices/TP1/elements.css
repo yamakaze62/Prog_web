@@ -1,0 +1,28 @@
+table {
+    border-style: double;
+    border-width: 5px;
+    border-color: black;
+}
+
+th {
+    border-style: solid;
+    border-width: 3px;
+    border-color: chocolate;
+    background-color: gainsboro;
+}
+
+td {
+    border-style: dotted;
+    border-width: 2px;
+    border-color: darkgoldenrod;
+    background-color: khaki;
+}
+
+li {
+    color: rgb(11, 71, 11);
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
