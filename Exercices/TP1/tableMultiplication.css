@@ -1,0 +1,18 @@
+table {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 3px;
+}
+
+th {
+    border-style: solid;
+    border-width: 3px;
+    border-color: chocolate;
+}
+
+td {
+    border-style: dotted;
+    border-width: 2px;
+    border-color: darkgoldenrod;
+}
