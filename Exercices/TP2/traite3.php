@@ -5,7 +5,7 @@
 </head>
 <body>
 <?php
-  $file = file("borneswifi_EPSG4326_20171004_utf8.csv");
+  $file = file("borneswifi_EPSG4326_utf8.csv");
   $i = 0;
   echo "<p>Table de CSV</p>";
   echo '<table border="1">';
