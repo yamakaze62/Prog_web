@@ -29,5 +29,5 @@ $week = date("W", strtotime($item->pubDate));
 <td><?php echo '<a href = "'.$url.'">'.$url.'</a>'?></td>
 </tr>
 <?php endforeach?>
-
+   
 </table>
