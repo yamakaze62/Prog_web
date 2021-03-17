@@ -17,6 +17,8 @@ Sujet choisi :
 
 2)curl -I http://api.themoviedb.org/3/movie/550?api_key=ebb02613ce5a2ae58fde00f4db95a9c1
 
+3)Veuillez utilisez le fichier Mej3.html.
+
 ## Analyse d'un flux RSS de podcast
 * Mise en jambes
 *
