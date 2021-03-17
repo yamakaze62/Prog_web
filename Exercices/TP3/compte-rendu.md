@@ -2,7 +2,7 @@
 
 # Compte-rendu de TP
 
-Sujet choisi : 
+Sujet choisi : Analyse d’un flux RSS de podcast
 
 ## Participants 
 
