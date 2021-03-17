@@ -6,10 +6,8 @@ Sujet choisi :
 
 ## Participants 
 
-* Un
-* Deux
-* ...
-* 
+* NGUYEN Justin
+* ZHANG Keming
 
 
 ## Utilisation de TMDB
