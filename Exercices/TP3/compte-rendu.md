@@ -21,4 +21,4 @@ Sujet choisi :
 
 ## Analyse d'un flux RSS de podcast
 * Mise en jambes
-*
+* Intercalaire hebdomadaire
