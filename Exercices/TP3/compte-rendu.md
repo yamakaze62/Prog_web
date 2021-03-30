@@ -20,8 +20,7 @@ Sujet choisi : Analyse d’un flux RSS de podcast
 3)Veuillez utilisez le fichier Mej3.html.
 
 ## Analyse d'un flux RSS de podcast
-* Mise en jambes
-* Intercalaire hebdomadaire
+* Mise en jambes(Tableau des podcasts)
 
 Résultat de ```mp3info -x 14312-21.02.2020-ITEMA_22288585-0.mp3``` :
 
@@ -38,4 +37,8 @@ Length:      9:56
 ```
 
 conversion : ```lame -b32 -a <fichier a convertir> <fichier converti>```
+* Intercalaire hebdomadaire
+* Tableau hebdomadaire
+* Plusieurs Podcasts
+
   
