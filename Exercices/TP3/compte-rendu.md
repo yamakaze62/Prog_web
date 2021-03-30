@@ -40,5 +40,11 @@ conversion : ```lame -b32 -a <fichier a convertir> <fichier converti>```
 * Intercalaire hebdomadaire
 * Tableau hebdomadaire
 * Plusieurs Podcasts
+* Attributs du mp3
+  ç'affiche dans l'image du 5_Atttribut_du_p3.png.
+  Pour le fichier 2.mp3, son bitrate est 128kbps et il est stereo
+* Réencodage
+  ç'affiche dans l'image 6_Reencodage.png
+* 
 
   
