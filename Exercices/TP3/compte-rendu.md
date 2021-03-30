@@ -22,6 +22,18 @@ Sujet choisi : Analyse d’un flux RSS de podcast
 ## Analyse d'un flux RSS de podcast
 * Mise en jambes(Tableau des podcasts)
 
+* Intercalaire hebdomadaire
+
+* Tableau hebdomadaire
+
+* Plusieurs Podcasts
+
+* Attributs du mp3
+
+Pour le fichier 2.mp3, ç'affiche dans l'image du 5_Atttribut_du_p3.png, et son bitrate est 128kbps et il est stereo
+
+et un autre exemple ici
+
 Résultat de ```mp3info -x 14312-21.02.2020-ITEMA_22288585-0.mp3``` :
 
 ```14312-21.02.2020-ITEMA_22288585-0.mp3 does not have an ID3 1.x tag.
@@ -36,15 +48,11 @@ Padding:     Yes
 Length:      9:56
 ```
 
-conversion : ```lame -b32 -a <fichier a convertir> <fichier converti>```
-* Intercalaire hebdomadaire
-* Tableau hebdomadaire
-* Plusieurs Podcasts
-* Attributs du mp3
-Ç'affiche dans l'image du 5_Atttribut_du_p3.png.
-Pour le fichier 2.mp3, son bitrate est 128kbps et il est stereo
 * Réencodage
+
+conversion : ```lame -b32 -a <fichier a convertir> <fichier converti>```
 Ç'affiche dans l'image 6_Reencodage.png
+
 * 
 
   
