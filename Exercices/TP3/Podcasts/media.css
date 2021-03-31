@@ -1,0 +1,15 @@
+.video {
+    display: block;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pic {
+    display: block;
+}
+
+.audio {
+    display: block;
+    border: none;
+}
