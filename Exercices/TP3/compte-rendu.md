@@ -13,9 +13,17 @@ Sujet choisi : Analyse d’un flux RSS de podcast
 ## Utilisation de TMDB
 * Mise en jambes
 
-1)Le format de réponse est JSON, le film est Fight Club, si on utilise language=fr, l'overview est en FR mais aussi en EN.
+1)Le format est un JSON. Le film est Fight Club. En passant le paramètre language=fr, le champ
+« Overview » est maintenant en français.
 
-2)```curl -I http://api.themoviedb.org/3/movie/550?api_key=ebb02613ce5a2ae58fde00f4db95a9c1```
+2)La commande sur le terminal pour récupérer les informations du header :
+```curl -I http://api.themoviedb.org/3/movie/550?api_key=ebb02613ce5a2ae58fde00f4db95a9c1```
+La commande sur le terminal pour récupérer les informations de la page :
+```curl http://api.themoviedb.org/3/movie/550?api_key=ebb02613ce5a2ae58fde00f4db95a9c1```
+On trouve bien les mêmes informations que sur le site
+En récupérant les informations de la fonction smartcurl, on trouve : ["content_type"]=> string(30)
+"application/json;charset=utf-8". IMAGE
+Le format est donc bien JSON.
 
 3)Veuillez utilisez le fichier Mej3.html.
 
