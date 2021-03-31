@@ -61,8 +61,13 @@ Length:      9:56
 * Réencodage
 
 conversion : ```lame -b32 -a <fichier a convertir> <fichier converti>```
-Ç'affiche dans l'image 6_Reencodage.png
+S'affiche dans l'image 6_Reencodage.png
 
-* 
+* Interaction avec le fil Twitter
+Liens Twitter:
+On peut récupérer le lien à l’aide de la fonction smartcurl.
+
+Liens Twitter dans le mp3: 
+Le format mp3 seul ne peut stocker que des données binaires basiques. Il faut donc utiliser le format ID3 qui permet d'inclure les métadonnées telles que le nom de l'auteur, le nom de l'interprète, le titre du morceau, l’année de sortie, le nom de l'album, le genre musical, une illustration de la pochette d'album, les paroles de karaoké, etc... on peut donc inclure le lien vers le fil twitter avec.
 
   
